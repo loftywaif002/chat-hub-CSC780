@@ -1,0 +1,3 @@
+include ':app' , ':robolectric-tests'
+include ':lib'
+

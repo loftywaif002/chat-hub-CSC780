@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ChatHub</string>
+    <string name="welcome_msg">Welcome!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="contacts_permission_rationale">Access to account information is required to sign
+        in.
+    </string>
+    <string name="sign_in">Sign In</string>
+    <string name="preferences_menu_label">Preferences</string>
+    <string name="auto_palette_preference">autoPalette</string>
+    <string name="color_scheme_preference">colorScheme</string>
+    <string name="reply_text">Talk to Reply!</string>
+    <string name="send_audio">Send Audio</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string-array name="reply_choices">
+        <item>In Class</item>
+        <item>Driving</item>
+        <item>In a Meeting</item>
+    </string-array>
+    <string name="title_activity_notification">NotificationActivity</string>
+
+
+</resources>
