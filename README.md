@@ -1,4 +1,4 @@
-<img src="http://i67.tinypic.com/33bgthg.png" height="450" width="600">
+<img src="http://i67.tinypic.com/33bgthg.png" height="500" width="900">
 <p align="center">
   <h2 align="center">DonorHome- For android and ios platform</h2>
   <h3>Platforms IOS 7.0 and above and Android Jelly Bean (API level 16) and above</h3>
